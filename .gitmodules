@@ -1,0 +1,3 @@
+[submodule "repoA"]
+	path = repoA
+	url = git@github.com:NicoleGrondinAlayacare/repoA.git
